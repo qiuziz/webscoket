@@ -1,0 +1,14 @@
+{
+    "name": "webscoket",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "ws": "1.1.1"
+    },
+    "author": "Anly.Z",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qiuziz/webscoket.git"
+    }
+}
